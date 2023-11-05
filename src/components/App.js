@@ -5,7 +5,7 @@ import Input from "./components/InputQuery.js";
 import SubHeading from "./components/SubHeading.js";
 import Submit from "./components/SubmitButton.js";
 
-export default const App = () => {
+const App = () => {
   return (
     <div id="main">
       <Heading/>
@@ -15,5 +15,6 @@ export default const App = () => {
     </div>
   )
 }
+export default App
 
 
