@@ -8,6 +8,7 @@ import Submit from "./components/SubmitButton.js";
 export default const App = () => {
   return (
     <div id="main">
+    <h1>SIva</h1>
       <Heading/>
       <SubHeading/>
       <Input/>
